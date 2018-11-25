@@ -279,6 +279,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [glove](https://github.com/ddfreyne/glove) - A library for gaming development
  * [inari](https://github.com/ddfreyne/inari) - A collection of games using Glove as the game engine
  * [mos_game](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
+ * [prism](https://github.com/neutrinog/prism) - 3D Game Engine
 
 ## GUI library
  * [hedron](https://github.com/Qwerp-Derp/hedron) - An extendable GUI library, with markup language capabilities
